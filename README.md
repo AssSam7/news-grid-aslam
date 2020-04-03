@@ -1,6 +1,8 @@
 # News Grid Website - Traversy Media
 
 This site **News Grid** is a project built from the course by [**_Brad Traversy_**](https://www.traversymedia.com/). 
+
+## Description
 It is a static website developed using latest CSS3 concepts like CSS Grid, Responsive media queries, CSS Variables etc. This site is 
 completely responsive and work absolutely fine on tablets, large screen desktops, mobiles and laptops. It is deployed using a free
 hosting service [**_Netlify_**](https://www.netlify.com).
