@@ -7,6 +7,9 @@ It is a static website developed using latest CSS3 concepts like CSS Grid, Respo
 completely responsive and work absolutely fine on tablets, large screen desktops, mobiles and laptops. It is deployed using a free
 hosting service [**_Netlify_**](https://www.netlify.com).
 
+## Live
+https://trusting-blackwell-757448.netlify.app/
+
 ## Key Specifications
 ## 1. Typography
 - [_StaatLiches_ (Headings)](https://fonts.google.com/specimen/Staatliches?query=Staatliches&selection.family=Staatliches&sidebar.open)
